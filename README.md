@@ -2,7 +2,7 @@
 
 ## Solution
 
-Ноутбук с экспериментами, предобработкой данных, обучением и предиктом находится в [notebook.ipynb](notebook.ipynb) 
+Ноутбук с экспериментами, предобработкой данных, обучением и предиктом находится в [npo_hackathon.ipynb](npo_hackathon.ipynb) 
 
 ## Collectors
 
